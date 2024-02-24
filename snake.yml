@@ -30,8 +30,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Link to your GitHub profile
-      - name: Add link to your GitHub profile in README.md
-        run: echo "[Generate snake animation](https://github.com/MUSKANPANDEY332)" >> README.md
+      - name: Add link to your GitHub profile and Snake animation in README.md
+  run: |
+    echo "[Generate snake animation](https://github.com/MUSKANPANDEY332/MUSKANPANDEY332/blob/main/snake.svg)" >> README.md
+    echo "" >> README.md
+    echo "<img src='https://raw.githubusercontent.com/MUSKANPANDEY332/MUSKANPANDEY332/main/snake.svg' alt='Snake animation' />" >> README.md
 
        
