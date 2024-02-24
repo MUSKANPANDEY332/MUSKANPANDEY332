@@ -44,7 +44,7 @@
 ###
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MUSKANPANDEY332/MUSKANPANDEY332/main/images/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MUSKANPANDEY332/MUSKANPANDEY332/main/snake.svg" alt="Snake animation" />
 
 
 ###
