@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
 </div>
-<a href="muskanpandey-portfolio.netlify.app">
+<a href="https://www.muskanpandey-portfolio.netlify.app">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=link&label=&color=FF69B4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
   </a>
 
