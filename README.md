@@ -39,6 +39,9 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
 </div>
+<a href="https://www.yourportfolio.com">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=link&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
+  </a>
 
 
 ###
